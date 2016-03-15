@@ -21,7 +21,7 @@ hedge funds and investment consultants.
 Education
 ===============
 
-`2015-2016 MSc, Econometrics and Mathematical Economics, Tilburg University`
+`2015-2016: MSc, Econometrics and Mathematical Economics, Tilburg University`
 
 + Attending courses in Numerical Simulation with Python; Stochastics; Cooperative Game Theory; Panel Data; Empirical Finance; Model Selection and Big Data; Microeconometrics; Nonlinear Optimization; Dynamic Models for Econometrics; Asset and Liability Management
 
@@ -61,11 +61,11 @@ prospective client portfolios in reality-check and proof-of-concept context
 * Hands on experience with non-normal modelling of asset returns, volatility clustering, 
 Copula dependencies
 
-`2008, Sept -2009, May: KPMG Advisory`
+`2008, Sept-2009, May: KPMG Advisory`
 
 * Internship, Financial Risk Management. Working on a consulting project for a major German bank
 
-`2006, June - 2006, Sept: Societe Generale`
+`2006, June-2006, Sept: Societe Generale`
 
 * Internship, retail banking 
 
