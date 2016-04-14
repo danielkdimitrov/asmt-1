@@ -1,5 +1,9 @@
 % Daniel K Dimitrov, CFA
 
+Assignment 3 [Repository](https://github.com/danielkdimitrov/Third_Assignment)
+
+---------
+
 ###Personal Details
 + Address: `Talent Square 177, 5038 Tilburg`                 
 + E-mail: `daniel.k.dimitrov@gmail.com`
