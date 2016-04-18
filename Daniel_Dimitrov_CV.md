@@ -1,6 +1,6 @@
 % Daniel K Dimitrov, CFA
 
-Assignment 3 [Repository](https://github.com/danielkdimitrov/Third_Assignment)
+Assignment 3 [Repository](https://github.com/danielkdimitrov/Third_Assignment) [HTML](http://danielkdimitrov.github.io/Third_AssignmentHTML)
 
 ---------
 
